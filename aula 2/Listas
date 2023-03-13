@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="pt-br“>
+    <head>
+        <title>Listas</title>
+        <meta charset="utf-8">
+
+
+  <h1> Lista não ordenadas </h1>
+  <ul>
+   <li> carro </li>
+   <li> cores </li>
+   <li> paises </li>
+    <li> frutas </li>
+  </ul>
+
+  <h1> Lista ordenadas </h1>
+  <ul>
+   <li> carro </li>
+    <li> cores </li>
+    <li> paises </li>
+    <li> frutas </li>
+  </ul>
+  
+  <ul>  
+    <li> Cores </li>
+      <ul>
+        <li> Vermelho </li>
+        <li> Azul </li>
+      </ul>
+     </li>
+    </lu>
+    
+    	</body>
+</html>
+      
+      
+
+
